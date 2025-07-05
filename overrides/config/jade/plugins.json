@@ -1,12 +1,15 @@
 {
+  "framedblocks": {
+    "framed_item_frame": true
+  },
   "minecraft": {
     "item_storage.show_name_amount": 5,
     "furnace": true,
     "harvest_tool.show_unbreakable": false,
     "animal_owner": true,
     "harvest_tool.effective_tool": true,
-    "item_storage.normal_amount": 9,
     "item_storage": true,
+    "item_storage.normal_amount": 9,
     "harvest_tool": true,
     "armor_stand": true,
     "fluid_storage.detailed": false,
@@ -66,6 +69,9 @@
     "goggles.detailed": false,
     "placard": true
   },
+  "tombstone": {
+    "graves": true
+  },
   "jadeaddons.mcjtylib": {
     "jadeaddons": true
   },
@@ -90,8 +96,23 @@
   "balm": {
     "jade": true
   },
+  "ae2": {
+    "part_icon": true,
+    "charger": true,
+    "debug": true,
+    "part_tooltip": true,
+    "grid_node_state": true,
+    "pattern_provider": true,
+    "part_mod_name": true,
+    "power_storage": true,
+    "crafting_monitor": true,
+    "part_name": true
+  },
   "jadeaddons": {
     "equipment_requirement": ""
+  },
+  "jadeaddons.lootr": {
+    "info": true
   },
   "mekanism": {
     "infuse_type": true,
@@ -103,17 +124,11 @@
     "energy": true,
     "tooltip_renderer": true
   },
-  "jadeaddons.lootr": {
-    "info": true
-  },
   "pipez": {
     "pipe": true
   },
   "waystones": {
     "waystone": true
-  },
-  "gravestone": {
-    "grave": true
   },
   "securitycraft": {
     "showowner": true,
